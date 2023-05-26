@@ -1,6 +1,6 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=talia-nappin&theme=gotham&hide_border=true)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talia-nappin&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talia-nappin&repo=viscord&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">
+  Technologies I use
+</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
