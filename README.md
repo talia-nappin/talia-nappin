@@ -8,9 +8,9 @@
   </a>
 </p>
 
-<h1 align="center">
+<h2 align="center">
   Technologies I've worked with
-</h1>
+</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
