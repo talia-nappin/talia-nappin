@@ -1,16 +1,13 @@
-### Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=talia-nappin&theme=gotham)](https://git.io/streak-stats)
 
-<!--
-**talia-nappin/talia-nappin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talia-nappin&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talia-nappin&repo=viscord&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,flutter,react,py,v,vsc,discord" />
+  </a>
+</p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31iklwguc5psndnqg2xyrkrsbnji&cover_image=false&theme=default&show_offline=false&background_color=0c1115&interchange=true&bar_color=27a98a&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
