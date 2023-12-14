@@ -1,9 +1,9 @@
 
 <h2 align="center">
-  Technologies I use
+  Technologies
 </h2>
 <p align="center">
-<img src="https://img.shields.io/badge/Fav language-5D87BF?style=for-the-badge&logo=V&logoColor=white" alt="V">
+<img src="https://img.shields.io/badge/Fav language-5D87BF?style=for-the-badge&logo=C&logoColor=white" alt="C">
 <img src="https://img.shields.io/badge/Code editor-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" alt="Visual Studio Code">
 </p>
 
